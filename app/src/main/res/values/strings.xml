@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Management</string>
+    <string name="password">  Insert password</string>
+    <string name="login_redirect_link">Already register. <u>Open login page</u>.</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="register_your_account">Register your account</string>
+    <string name="task_finished">Task finished:</string>
+    <string name="task_level">Task level:</string>
+</resources>
